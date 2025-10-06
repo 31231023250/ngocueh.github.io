@@ -1,2 +1,0 @@
-- EDA Hotel Booking
-- Demo Fin EDA, hiển thị
