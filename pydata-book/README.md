@@ -1,3 +1,0 @@
-# KTLT-ECO
-
-**TRẦN THỊ KIM NGỌC - 31231023250**
